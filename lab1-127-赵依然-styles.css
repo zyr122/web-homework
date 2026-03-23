@@ -1,0 +1,19 @@
+.intro {
+    color: blue;
+    font-size: 16px;
+    font-family: "SimSun", 宋体;
+    font-weight: bold;
+}
+
+.c1 {
+    color: black;
+}
+
+.c1:hover {
+    color:red;
+}
+
+.c1:active {
+    color: blue;
+}
+
